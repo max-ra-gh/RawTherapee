@@ -1,0 +1,4 @@
+# Per-machine state written by brew-install.sh
+.brew-pre-install-state.txt
+# Root .gitignore has `Build*` (for IDE build dirs); negate it for our script.
+!build.sh
